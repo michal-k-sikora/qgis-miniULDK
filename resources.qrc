@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/plugins/miniuldk">
+        <file>icons/icon.svg</file>
+        <file>icons/button.svg</file>
+        <file>icons/button_2.svg</file>
+    </qresource>
+</RCC>

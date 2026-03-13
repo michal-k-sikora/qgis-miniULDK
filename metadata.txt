@@ -1,0 +1,18 @@
+[general]
+name=MiniULDK
+qgisMinimumVersion=3.28
+qgisMaximumVersion=3.99
+description=Wtyczka umożliwia pobieranie pojedynczych geometrii działek ewidencyjnych z poziomu paska narzędziowego. (EN: The plugin allows users to download individual cadastral parcel geometries directly from the toolbar)
+version=1.0.0
+author=Michał Sikora, Radosław Seweryn
+homepage=https://github.com/michal-k-sikora/qgis-miniULDK
+tracker=https://github.com/michal-k-sikora/qgis-miniULDK/issues
+repository=https://github.com/michal-k-sikora/qgis-miniULDK
+email=michal.sikora@ongeo.pl, radoslaw.seweryn@ongeo.pl
+about=<ul><li><b>PL: MiniULDK</b> umożliwia wczytywanie geometrii działek ewidencyjnych za pomocą pojedynczego kliknięcia w oknie mapy. Wczytana warstwa zawiera informację o geometrycznej powierzchni pobranego obiektu. Wtyczka pozwala również na automatyczny zapis danych w formacie SHP lub GPKG. Dane pobierane są z wykorzystaniem usługi ULDK.</li><p><li><b>EN: MiniULDK</b> allows users to load cadastral parcel geometries with a single click in the map window. The loaded layer contains information about the geometric area of the retrieved object. The plugin also supports automatic saving of data in SHP or GPKG format. The data is retrieved using the ULDK service.</li></p></ul>
+category=Plugins
+icon=icons/icon.svg
+experimental=False
+deprecated=False
+license=GPL-3.0-or-later
+tags=uldk,dzialki,parcel,cadastral,ewidencja,egib,ongeo,smallgis
