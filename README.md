@@ -32,6 +32,8 @@ Wtyczka udostępnia dwa główne elementy interfejsu:
 Służy do uruchomienia narzędzia wskazywania działek na mapie.  
 Po kliknięciu przycisku możesz wskazywać działki bezpośrednio w oknie mapy.
 
+![MiniULDK_1](https://github.com/michal-k-sikora/qgis-miniULDK/blob/b6b7542c117cc2507e086ecdb898b520a61bb186/assets/MiniULDK_1.gif)
+
 ### **2. Przycisk ustawień**
 Otwiera okno ustawień, w którym można zdecydować, jak mają być obsługiwane pobrane działki.
 
@@ -50,6 +52,8 @@ Okno ustawień zawiera trzy główne sekcje:
 - każda pobrana działka to osobna warstwa w pliku GPKG, o nazwie **numer_obrebu.numer_dzialki** (np. **0003.204**)
 - opcję dodawania zapisanych warstw do projektu.
 
+![MiniULDK_2](https://github.com/michal-k-sikora/qgis-miniULDK/blob/b6b7542c117cc2507e086ecdb898b520a61bb186/assets/MiniULDK_2.gif)
+
 #### **Widok**
 - opcję automatycznego przybliżania widoku do wskazanej działki.
 
@@ -57,6 +61,8 @@ Wtyczka pokazuje także bieżące komunikaty podczas pracy, np.:
 - informację o poprawnym pobraniu działki,
 - informację o braku działki pod wskazanym punktem,
 - komunikaty o błędach lub nieprawidłowych ustawieniach.
+
+![MiniULDK_3](https://github.com/michal-k-sikora/qgis-miniULDK/blob/b6b7542c117cc2507e086ecdb898b520a61bb186/assets/MiniULDK_3.png)
 
 ---
 
